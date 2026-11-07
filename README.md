@@ -1,4 +1,5 @@
 # Secure-Life-General-Hospital-Performance-Dashboard
+![](Introductory_Image.png)
 ## 1. Introduction
 Hospitals record a large amount of information every day: who was admitted, where they were treated, how long they stayed, what the bill was and how it was paid. On its own, this information is hard to use. In this project, I analysed patient admission, billing and insurance records for Secure Life General Hospital using Microsoft Excel and built an interactive dashboard. The goal was to give hospital management one clear view of patient demand, departmental performance, payments and insurance coverage, so that they can spot problems early and make better decisions.
 ## 2. About the Dataset
