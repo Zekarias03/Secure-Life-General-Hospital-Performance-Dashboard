@@ -26,7 +26,7 @@ My task as the data analyst was to turn the raw records into insights and build 
 • Microsoft Excel: formulas, PivotTables, PivotCharts and slicers
 • GitHub: project documentation
 ## 5. Dashboard Visualization
-[Paste Dashboard_Image here]
+![](Dashboard_Image.png)
 The dashboard brings the main indicators into one screen: key figures (total visits, total bills, paid amount, average stay and average insurance coverage), patients by department, payment status, gender split, age groups and the admission trend over time. Slicers for department, payment status and year let users filter the whole dashboard without opening the raw records.
 ## 6. Key Insights and Findings
 - 1. Patient visits. The hospital recorded 1,000 visits. Female patients accounted for 512 visits (51.2%) and male patients for 488 (48.8%), so the split is almost even.
